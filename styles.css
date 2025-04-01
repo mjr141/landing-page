@@ -33,3 +33,12 @@ h1 {
   list-style: none;
   gap: 48px;
 }
+
+.hero-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 64px;
+  padding: 48px 80px 64px;
+  background-color: #1f2937;
+}
