@@ -42,3 +42,9 @@ h1 {
   padding: 48px 80px 64px;
   background-color: #1f2937;
 }
+
+.hero-header {
+  font-size: 48px;
+  color: #f9faf8;
+  font-weight: 900;
+}
