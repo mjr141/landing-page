@@ -81,3 +81,10 @@ button {
   font-weight: 900;
   padding: 32px;
 }
+
+.info-container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 144px 64px;
+  /* gap: 16px; */
+}
