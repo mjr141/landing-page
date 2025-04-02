@@ -86,7 +86,7 @@ button {
   display: flex;
   justify-content: space-between;
   padding: 0 144px 64px;
-  /* gap: 16px; */
+  gap: 16px;
 }
 
 .info-image {
@@ -97,4 +97,12 @@ button {
   border-radius: 16px;
   border-style: solid;
   margin: 0 auto 8px;
+}
+
+.info-element {
+  text-align: center;
+}
+
+.info-text {
+  color: #5c5e61;
 }
