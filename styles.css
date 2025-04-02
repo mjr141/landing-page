@@ -88,3 +88,13 @@ button {
   padding: 0 144px 64px;
   /* gap: 16px; */
 }
+
+.info-image {
+  box-sizing: border-box;
+  width: 160px;
+  height: 160px;
+  border-color: #3882f6;
+  border-radius: 16px;
+  border-style: solid;
+  margin: 0 auto 8px;
+}
