@@ -87,7 +87,6 @@ button {
   display: flex;
   justify-content: space-between;
   padding: 0 144px 64px;
-  /* gap: 16px; */
 }
 
 .info-image {
@@ -131,4 +130,28 @@ button {
   width: fit-content;
   margin-left: auto;
   margin-right: 32px;
+}
+
+.call-container {
+  padding: 80px;
+}
+
+.call-box {
+  background-color: #3882f6;
+  border-radius: 16px;
+  padding: 32px 62px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.call-box button {
+  border-color: #f9faf8;
+  border-style: solid;
+  box-sizing: border-box;
+  padding: 6px 32px;
+}
+
+.call-right {
+  display: flex;
+  align-items: center;
 }
